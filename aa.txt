@@ -1,2 +1,3 @@
-hello git !
-즐거운 시간
+working tree
+staging area
+repository
